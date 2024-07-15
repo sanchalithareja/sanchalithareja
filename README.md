@@ -21,8 +21,8 @@ I'm a computer sceience student at Delhi Technological University passionate abo
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:sanchalithareja005@gmail.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sanchali-thareja-b0942a236/)
+- Email: (mailto:sanchalithareja005@gmail.com)
+- LinkedIn:(https://linkedin.com/in/sanchali-thareja-b0942a236/)
 
 
 
